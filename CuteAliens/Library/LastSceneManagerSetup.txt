@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Alien_planet/Scenes/Gas_planet_scene.unity
+- path: Assets/Main.unity
   isLoaded: 1
   isActive: 1
