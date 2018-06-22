@@ -2,7 +2,8 @@ fileFormatVersion: 2
 guid: 006a5f739d1105f6a000538a2aef8c59
 timeCreated: 18446744011573954816
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    8900000: generatedCubemap
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -64,7 +65,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
